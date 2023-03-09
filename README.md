@@ -28,3 +28,5 @@ Commonly it's used for catching so that application can work fast even if the us
 
 It can also be used for receiving push notifications
 ```
+
+<img width="1040" alt="Screenshot 2023-03-10 at 12 39 41 AM" src="https://user-images.githubusercontent.com/43849911/224129731-964ee1f6-6896-4c75-9be7-a2aad5d21024.png">
