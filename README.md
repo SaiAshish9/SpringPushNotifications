@@ -52,5 +52,8 @@ https://refactorfirst.com/spring-boot-websockets-stomp-notifications
 
 <img width="1792" alt="Screenshot 2023-03-10 at 12 58 55 AM" src="https://user-images.githubusercontent.com/43849911/224133726-89ed3f87-615a-450a-8e51-a8d197c98e87.png">
 
+<img width="1785" alt="Screenshot 2023-03-10 at 1 03 19 AM" src="https://user-images.githubusercontent.com/43849911/224134642-194885ad-1824-4681-9218-b5574b051a38.png">
+
+<img width="1790" alt="Screenshot 2023-03-10 at 1 03 54 AM" src="https://user-images.githubusercontent.com/43849911/224134782-845722f9-32f9-45e7-b4ae-1b22cc4c6a24.png">
 
 
