@@ -28,13 +28,18 @@ public class SecurityConfig {
     }
 
     @Bean
+    @Deprecated
     public InMemoryUserDetailsManager userDetailsService() {
         UserDetails user = User.withDefaultPasswordEncoder()
                 .username("test")
                 .password("test")
                 .roles("USER")
                 .build();
-
-        return new InMemoryUserDetailsManager(user);
+        UserDetails user1 = User.withDefaultPasswordEncoder()
+                .username("test1")
+                .password("test1")
+                .roles("USER")
+                .build();
+        return new InMemoryUserDetailsManager(user, user1);
     }
 }
