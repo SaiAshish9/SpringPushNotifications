@@ -68,3 +68,11 @@ https://refactorfirst.com/spring-boot-websockets-stomp-notifications
 
 <img width="1790" alt="Screenshot 2023-03-10 at 1 29 24 AM" src="https://user-images.githubusercontent.com/43849911/224140385-40cd1411-0564-414a-8c45-46975ab8d088.png">
 
+```
+Server Sent Events:
+```
+
+https://roytuts.com/server-sent-events-spring-push-notifications/
+
+<img width="1146" alt="Screenshot 2023-03-10 at 1 33 38 AM" src="https://user-images.githubusercontent.com/43849911/224141649-12d7a6a1-9c6d-46d5-830e-4331b8335c87.png">
+
