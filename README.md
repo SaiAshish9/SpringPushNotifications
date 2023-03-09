@@ -30,3 +30,11 @@ It can also be used for receiving push notifications
 ```
 
 <img width="1040" alt="Screenshot 2023-03-10 at 12 39 41 AM" src="https://user-images.githubusercontent.com/43849911/224129731-964ee1f6-6896-4c75-9be7-a2aad5d21024.png">
+
+```
+Send push notifications from Spring Boot server-side application using FCM
+
+Google Firebase FCM :
+```
+
+https://blog.mestwin.net/send-push-notifications-from-spring-boot-server-side-application-using-fcm/
